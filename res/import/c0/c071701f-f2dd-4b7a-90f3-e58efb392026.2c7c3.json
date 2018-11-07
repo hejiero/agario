@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skin_prick",
+    "texture": "79fqrO1KpJK74MgTQJ7whv",
+    "rect": [
+      12,
+      11,
+      234,
+      234
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

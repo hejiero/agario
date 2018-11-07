@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "food_7",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "food_7",
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          },
+          "_spriteFrame": {
+            "__uuid__": "ccKZ9TMLRE4q97NzsYUY8t"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "9d4cjbkP9OnbQXlJ//2CVw"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 27,
+        "height": 26
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "food_7",
+      "texture": "83REM6YP1H27rSEbv0hSTP",
+      "rect": [
+        0,
+        0,
+        27,
+        26
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        27,
+        26
+      ]
+    }
+  }
+]

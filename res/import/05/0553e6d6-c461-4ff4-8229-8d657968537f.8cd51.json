@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lanqiuhui",
+    "texture": "bd44GorvhAXK8FEnAtz44r",
+    "rect": [
+      0,
+      0,
+      67,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      67
+    ]
+  }
+}

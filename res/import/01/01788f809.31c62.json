@@ -1,0 +1,62 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "ball_8",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ball_8",
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          },
+          "_spriteFrame": {
+            "__uuid__": "a2jVmbpC1EM6m+MYaa0C5t"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "63gOY1n1ZHRbOPZbBTT+7/"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 254,
+        "height": 243
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ball_8",
+      "texture": "5eX04Zr0NKKrr5Leywfno0",
+      "rect": [
+        1,
+        0,
+        254,
+        243
+      ],
+      "offset": [
+        0,
+        6.5
+      ],
+      "originalSize": [
+        256,
+        256
+      ]
+    }
+  }
+]

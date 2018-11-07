@@ -1,0 +1,62 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ball_1",
+      "texture": "6dSfLYXc5CFav5AdTNUzGK",
+      "rect": [
+        2,
+        1,
+        252,
+        251
+      ],
+      "offset": [
+        0,
+        1.5
+      ],
+      "originalSize": [
+        256,
+        256
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "ball_1",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "ball_1",
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          },
+          "_spriteFrame": {
+            "__uuid__": "126sf16WtA8b+fUKb5w+/+"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "60yCnymHJPt5/ar8BI9ZEa"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 252,
+        "height": 251
+      }
+    }
+  ]
+]
